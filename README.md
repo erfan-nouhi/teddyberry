@@ -1,2 +1,2 @@
 # teddyberry
-teddy berry is great project it will change the world
+teddyberry aims at solving adverse health outcomes in impoverished area across the globe by facilitating access to education.
